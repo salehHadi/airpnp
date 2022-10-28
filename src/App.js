@@ -2,7 +2,7 @@ import React from 'react'
 import Header from './Header'
 import Hero from './Hero'
 import Card from './Card'
-import data from './data'
+import data from './Data'
 
 // img
 import image from './assets/mountain-bike.png'
@@ -17,8 +17,6 @@ function App() {
   const cards = alldata.map(item => {
     return <Card 
     key={item.id}
-    img={image}
-    // item={item} another way
     {...item}
     />
   })
