@@ -1,4 +1,5 @@
-export default [
+export default data
+const data = [
     {
         id: 1,
         title: "Life Lessons with Katie Zaferes",
