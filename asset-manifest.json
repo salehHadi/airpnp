@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/airpnp/static/css/main.a297bc43.css",
-    "main.js": "/airpnp/static/js/main.8dbb9ff7.js",
+    "main.js": "/airpnp/static/js/main.502cb767.js",
     "static/js/787.75777a05.chunk.js": "/airpnp/static/js/787.75777a05.chunk.js",
     "static/media/photo-grid.png": "/airpnp/static/media/photo-grid.294d59b66b94e0e456cf.png",
-    "static/media/mountain-bike.png": "/airpnp/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
     "static/media/airbnb-logo.png": "/airpnp/static/media/airbnb-logo.e4424517383d14a03a24.png",
     "index.html": "/airpnp/index.html",
     "main.a297bc43.css.map": "/airpnp/static/css/main.a297bc43.css.map",
-    "main.8dbb9ff7.js.map": "/airpnp/static/js/main.8dbb9ff7.js.map",
+    "main.502cb767.js.map": "/airpnp/static/js/main.502cb767.js.map",
     "787.75777a05.chunk.js.map": "/airpnp/static/js/787.75777a05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a297bc43.css",
-    "static/js/main.8dbb9ff7.js"
+    "static/js/main.502cb767.js"
   ]
 }
