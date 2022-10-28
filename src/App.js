@@ -3,16 +3,10 @@ import Header from './Header'
 import Hero from './Hero'
 import Card from './Card'
 import data from './Data'
-
-// img
-import image from './assets/mountain-bike.png'
 import './App.css'
 
 
-
 function App() {
-
-
   const alldata = data
   const cards = alldata.map(item => {
     return <Card 
