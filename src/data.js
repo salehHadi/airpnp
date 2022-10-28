@@ -1,4 +1,6 @@
+// eslint-disable-next-line 
 export default data
+// eslint-disable-next-line 
 const data = [
     {
         id: 1,
